@@ -1,0 +1,7 @@
+maximumheartrate: 172
+exercise: 0
+oldpeak: 0
+slope: -9
+caresult: -9
+thal: -9
+num: 0
